@@ -245,4 +245,9 @@
         display: none;
     }
 
+    .test-cards {
+        display: flex !important;
+        flex-direction: column;
+    }
+
 }
