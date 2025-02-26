@@ -311,6 +311,7 @@ button.no_background.round {
     background-color: inherit;
     border: rgba(0, 0, 0, 0.2) solid 2px;
     transition: .3s background-color ease-out, .3s border ease-out;
+    color: #000000;
 }
 
 button.no_background.round:hover {
@@ -793,6 +794,7 @@ button.no_background.round:hover {
     font-size: 16px;
     font-weight: 600;
     text-align: left;
+    color: #000000;
 }
 
 .question_card_header svg {
