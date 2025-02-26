@@ -805,6 +805,7 @@ button.no_background.round:hover {
 
 .question_card p {
     font-size: 14px;
+    color: #000000;
     text-align: justify;
     margin-top: 12px;
     line-height: 20px;
