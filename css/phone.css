@@ -1,12 +1,6 @@
-/* @media screen and (min-width: 500px) {
-    .main-images {
-        width: 50vw;
-    }
-} */
-
 @media screen and (max-width: 500px) {
     .main-images {
-        width: 70vw;
+        width: 300px;
     }
 }
 
@@ -74,19 +68,11 @@
         max-width: 450px;
     }
 
-    /* .main-images {
-        width: 50vw;
-    } */
-
     .statistics_blocks {
         gap: 24px;
         flex-direction: column;
         margin-top: 48px;
     }
-
-    /* .statistics_blocks hr {
-        margin: 32px 0;
-    } */
 
     .services-container {
         grid-template-columns: 1fr;
